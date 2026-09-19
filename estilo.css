@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: deeppink;
+    text-align: center;
+}
+h1 {
+    color: blanchedalmond(3, 3, 51);
+}
+
+section{
+    background-color: rgb(241, 158, 228);
+    border: 2px solid palevioletred ;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 30px auto;
+    max-width: 500px;
+}
+
+h2 {
+    color: rgb(158, 43, 133);
+}
+
+p {
+    font-size: 20px;
+}
+a{
+    color: rgb(240, 127, 255);
+    font-weight: bold;
+}
